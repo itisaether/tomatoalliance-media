@@ -1,0 +1,12 @@
+Devlog #1: Mutation Lab 🧪
+
+Our second game is about running your own lab and mutating weird creatures. We build it piece by piece and test every step before moving on.
+
+Step 1: plots for every player
+Step 2: your own lab building
+Step 3: capsules, terminal and lights
+Step 4: the first creature in a capsule
+
+Still early, still grey boxes. Follow to watch it grow 🌱
+
+#roblox #robloxdev #robloxstudio #gamedev #devlog
