@@ -1,4 +1,4 @@
-Devlog #1: Mutation Lab.
+Devlog #1: Mutation Lab. New quest unlocked.
 
 Our second game is about running your own lab and mutating strange creatures. We build it one piece at a time and test every step before the next one.
 
@@ -7,6 +7,6 @@ Step 2: your own lab building
 Step 3: capsules, terminal and lights
 Step 4: the first creature in a capsule
 
-Still grey boxes for now. Follow along and watch it grow.
+Still grey boxes for now. Follow along and watch it level up.
 
-#roblox #robloxdev #robloxstudio #gamedev #devlog
+#roblox #robloxdev #robloxstudio #gamedev #devlog #pixelart #tomatoalliance
